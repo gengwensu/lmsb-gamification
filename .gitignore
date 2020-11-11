@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+.idea/.gitignore
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+HELP.md
+gamification.iml
+mvnw
+mvnw.cmd
+pom.xml
+src/main/java/microservices/book/gamification/GamificationApplication.java
+src/main/resources/
+src/test/
