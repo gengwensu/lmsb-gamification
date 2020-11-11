@@ -8,11 +8,7 @@
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
-HELP.md
-gamification.iml
-mvnw
-mvnw.cmd
-pom.xml
-src/main/java/microservices/book/gamification/GamificationApplication.java
-src/main/resources/
-src/test/
+src/main/resources/templates/
+target/
+
+
